@@ -5,7 +5,6 @@ def square_array(array)
 end 
 
 square_array(numbers)
-#USING COLLECT METHOD TO RETURN NEW ARRAY 
 
 def square_array(array)
   new_arr = [] 
