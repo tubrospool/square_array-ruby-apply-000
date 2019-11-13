@@ -1,4 +1,4 @@
 def square_array(array)
-  a = [ "a", "b", "c", "d" ]
-a.each("x")              #=> ["x", "x", "x", "x"]
+  numbers = [ "1", "2", "3"]
+a.each("1", "4", "9")              
 end
